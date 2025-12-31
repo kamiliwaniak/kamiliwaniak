@@ -6,12 +6,6 @@
 
 ###
 
-<style>
-  .title-container { display: flex; justify-items: center; align-items: center; flex-direction: row; backgroundcolor: red;}
-</style>
-<div class=title-container>
-  
-
 <h3 align="center">Programming Languages</h3>
 
 ###
@@ -77,9 +71,3 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/kamiliwaniak/kamiliwaniak/output/snake.svg" alt="Snake animation" />
-
-###
